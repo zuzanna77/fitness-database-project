@@ -10,7 +10,7 @@ Projekt obejmuje pełny cykl tworzenia bazy danych: specyfikację wymagań i dia
 
 | Plik | Opis |
 |---|---|
-| `Bazy_danych_-_projekt_zaliczeniowy.pdf` | Pełna dokumentacja projektu (Etapy 1–3) |
+| `Bazy_danych - projekt_zaliczeniowy.pdf` | Pełna dokumentacja projektu (Etapy 1–3) |
 | `projekt_zaliczeniowy.sql` | Zrzut bazy `projekt_zaliczeniowy` (struktura, dane testowe, widoki) |
 | `model_bazy_danych.png` | Diagram fizycznego modelu bazy danych (z dokumentacji) |
 | `README.md` | Ten plik |
